@@ -1,3 +1,4 @@
+/*Flora Caires*/
 db.filmes.insert({
 "titulo": "Jovens, Loucos e Rebeldes",
 "duracao": 102,
@@ -89,8 +90,8 @@ db.filmes.insert({
 "atores":["Bette Midler","Sarah Jessica Parker","Kathy Najimy"],
 "data_estreia": new Date(1993,10,29),
 "generos":["Comedy", "Family","Fantasy"],
-"arrecadacao":39514713,
-"nota":6.7
+"arrecadacao":39514713 ,
+"nota":6.7 
 
 })
 
@@ -98,11 +99,11 @@ db.filmes.insert({
 db.filmes.insert({
 "titulo": "Tombstone - A Justiça Está Chegando",
 "duracao": 130,
-"diretores":"George P.", "Cosmatos", "Kevin Jarre",
+"diretores":["George P.", "Cosmatos", "Kevin Jarre"],
 "atores":[" Kurt Russell", "Val Kilmer", "Sam Elliott"],
 "data_estreia": new Date(1993,12,25),
-"generos":["Action","Biography","Drama","History",Romance","Western"],
-"arrecadacao":56505065,
+"generos":["Action","Biography","Drama","History","Romance","Western"],
+"arrecadacao":56505065 ,
 "nota":7.8
 
 })
@@ -127,7 +128,7 @@ db.filmes.insert({
 "diretores":" Chris Columbus",
 "atores":["Robin Williams","Sally Field", "Pierce Brosnan"],
 "data_estreia": new Date(1993,12,25),
-"generos":[" Comedy",Drama,"Family"],
+"generos":[" Comedy","Drama","Family"],
 "arrecadacao":219200000,
 "nota":6.9
 
@@ -259,7 +260,7 @@ db.filmes.insert({
 db.filmes.insert({
 "titulo": "Batman: A Máscara do Fantasma ",
 "duracao": 76,
-"diretores":" Eric Radomski", "Bruce Timm",
+"diretores":[" Eric Radomski", "Bruce Timm"],
 "atores":[" Kevin Conroy"," Dana Delany", "Hart Bochner"],
 "data_estreia": new Date(1994,04,29),
 "generos":["Action", "Adventure", "Adventure"],
