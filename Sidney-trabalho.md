@@ -1,3 +1,6 @@
+//Sidney Emanuel
+
+
 db.filmes.insert({
 	"titulo": "Planeta dos Macacos: A Origem  ",
 	"duracao": 105,
@@ -6,7 +9,7 @@ db.filmes.insert({
 	"data_estreia": new Date(2011,08,26),
 	"genero": ["Action", "Drama", "Sci-Fi" ],
 	"arrecadacao":176740650 ,
-	"nota" 7.6:
+	"nota": 7.6
 })
 
 
@@ -33,7 +36,7 @@ db.filmes.insert({
 	"data_estreia": new Date(2012,02,03),
 	"genero": ["Drama"],
 	"arrecadacao": 169705587 ,
-	"nota": 8,1
+	"nota": 8.1
 })
 
 
@@ -45,7 +48,7 @@ db.filmes.insert({
 	"data_estreia": new Date(2011,04,29),
 	"genero": ["Action", "Adventure", "Fantasy" ],
 	"arrecadacao": 181015141 ,
-	"nota" 7.0:
+	"nota": 7.0
 })
 
 
@@ -117,7 +120,7 @@ db.filmes.insert({
 	"data_estreia": new Date(2012,08,31),
 	"genero": [ "Biography", "Comedy", "Drama" ],
 	"arrecadacao": 13179837,
-	"nota": 8,6
+	"nota": 8.6
 })
 
 
@@ -141,7 +144,7 @@ db.filmes.insert({
 	"data_estreia": new Date(2012,10,18),
 	"genero": ["Comedy"],
 	"arrecadacao": 70931 ,
-	"nota": 6,2
+	"nota": 6.2
 })
 
 
