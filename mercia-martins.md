@@ -14,8 +14,8 @@ db.filmes.insert(
 db.filmes.insert(
 {
 "titulo":"Zodíaco",
-"duracao":157, 
-"diretores":"David Fincher", 
+"duracao":157,
+"diretores":"David Fincher",
 "atores": ["Jake Gyllenhaal","Robert Downey Jr.","Mark Ruffalo","Anthony Edwards"],
 "data_estreia": new Date(2007,06,01),
 "generos": ["Crime","Drama","History"],
@@ -29,7 +29,7 @@ db.filmes.insert(
 {
 "titulo":"Onde os Fracos não Têm Vez",
 "duracao": 122,
-"diretores": ["Ethan Coen","Joel Coen"], 
+"diretores": ["Ethan Coen","Joel Coen"],
 "atores": ["Tommy Lee Jones","Javier Bardem","Josh Brolin","Woody Harrelson"],
 "data_estreia": new Date(2008,02,01),
 "generos": ["Crime","Drama","Thriller"],
@@ -57,7 +57,7 @@ db.filmes.insert(
 {
 "titulo":"Homem-Aranha 3",
 "duracao": 139,
-"diretores": "Sam Raimi", 
+"diretores": "Sam Raimi",
 "atores": ["Tobey Maguire", "Kirsten Dunst", "Topher Grace", "Thomas Haden Church"],
 "data_estreia": new Date(2007,05,04),
 "generos": ["Action", "Adventure"],
@@ -85,7 +85,7 @@ db.filmes.insert(
 {
 "titulo":"Transformers",
 "duracao": 144,
-"diretores": "Michael Bay", 
+"diretores": "Michael Bay",
 "atores": ["Shia LaBeouf", "Megan Fox", "Josh Duhamel", "Tyrese Gibson"],
 "data_estreia": new Date(2007,07,18),
 "generos": ["Action", "Adventure", "Sci-Fi"],
@@ -156,7 +156,7 @@ db.filmes.insert(
 "titulo":"À Prova de Morte",
 "duracao": 113,
 "diretores": "Quentin Tarantino",
-"atores": ["Kurt Russell", "Zoë Bell", "Rosario Dawson", "Vanessa Ferlito"]
+"atores": ["Kurt Russell", "Zoë Bell", "Rosario Dawson", "Vanessa Ferlito"],
 "data_estreia": new Date(2010,07,16),
 "generos": ["Thriller"],
 "nota":7.1
@@ -182,7 +182,7 @@ db.filmes.insert(
 {
 "titulo":"Eu Sou a Lenda",
 "duracao": 101,
-"diretores": "Francis Lawrence"
+"diretores": "Francis Lawrence",
 "atores": ["Will Smith","Alice Braga","Charlie Tahan","Salli Richardson-Whitfield"],
 "data_estreia": new Date(2008,01,18),
 "generos": ["Drama","Horror","Sci-Fi"],
@@ -196,7 +196,7 @@ db.filmes.insert(
 {
 "titulo":"Ligeiramente Grávidos",
 "duracao":129,
-"diretores": "Judd Apatow", 
+"diretores": "Judd Apatow",
 "atores": ["Seth Rogen","Katherine Heigl","Paul Rudd","Leslie Man"],
 "data_estreia": new Date(2007,09,21),
 "generos": ["Comedy","Romance"],
@@ -236,10 +236,10 @@ db.filmes.insert(
 
 db.filmes.insert(
 {
-"titulo":"O Assassinato de Jesse James pelo Covarde Robert Ford"
+"titulo":"O Assassinato de Jesse James pelo Covarde Robert Ford",
 "duracao": 160,
-"diretores": "Andrew Dominik"
-"atores": ["Brad Pitt", "Casey Affleck", "Sam Shepard", "Mary-Louise Parker"]
+"diretores": "Andrew Dominik",
+"atores": ["Brad Pitt", "Casey Affleck", "Sam Shepard", "Mary-Louise Parker"],
 "data_estreia": new Date(2007,10,17),
 "generos": ["Biography", "Crime", "Drama"],
 "arrecadacao":3904982,
@@ -250,10 +250,10 @@ db.filmes.insert(
 
 db.filmes.insert(
 {
-"titulo":"Piratas do Caribe: No Fim do Mundo"
+"titulo":"Piratas do Caribe: No Fim do Mundo",
 "duracao":169,
 "diretores":"Gore Verbinski",
-"atores": ["Johnny Depp", "Orlando Bloom", "Keira Knightley", "Geoffrey Rush" ]
+"atores": ["Johnny Depp", "Orlando Bloom", "Keira Knightley", "Geoffrey Rush" ],
 "data_estreia": new Date(2007,05,25),
 "generos": ["Action", "Adventure", "Fantasy"],
 "arrecadacao":309404152,

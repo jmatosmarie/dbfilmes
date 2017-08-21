@@ -1,4 +1,4 @@
-//Jade Passos Almeida
+// Jade Passos Almeida
 db.filmes.insert({
 	"titulo" : "Os Sete Crimes Capitais",
 	"duracao" : 127,
@@ -61,7 +61,7 @@ db.filmes.insert({
 	"atores" : [ "Robin Williams", "Kirsten Dunst", "Bonnie Hunt"],
 	"data_estreia" : new Date (1996,03,29),
 	"generos" : ["Action", "Adventure", "Family"],
-	"arrecadacao" : 100.200.000,
+	"arrecadacao" : 100200000,
 	"nota" : 6.9
 })
 
@@ -72,7 +72,7 @@ db.filmes.insert({
 	"atores" : ["Elizabeth Berkley", "Kyle MacLachlan", "Gina Gershon"],
 	"data_estreia" : new Date (1996,06,14),
 	"generos" : ["Drama"],
-	"arrecadacao" : 20.302.961,
+	"arrecadacao" : 20302961,
 	"nota" : 4.6
 })
 
@@ -83,7 +83,7 @@ db.filmes.insert({
 	"atores" : ["Robert De Niro", "Sharon Stone", "Joe Pesci"],
 	"data_estreia" : new Date (1996,03,15),
 	"generos" : ["Crime", "Drama"],
-	"arrecadacao" : 42.438.300,
+	"arrecadacao" : 42438300,
 	"nota" : 8.2
 })
 
@@ -94,7 +94,7 @@ db.filmes.insert({
 	"atores" : ["Alicia Silverstone", "Stacey Dash", "Brittany Murphy"],
 	"data_estreia" : new Date (1996,01,26),
 	"generos" : ["Comedy", "Romance"],
-	"arrecadacao" : 56.631.572 ,
+	"arrecadacao" : 56631572 ,
 	"nota" : 6.8
 })
 
@@ -104,8 +104,8 @@ db.filmes.insert({
 	"diretores" : "Mike Gabriel, Eric Goldberg",
 	"atores" : [ "Mel Gibson", "Linda Hunt", "Christian Bale"],
 	"data_estreia" : new Date (1995,06,30),
-	"generos" : [ "Animation", "Adventure","Drama", "Family", "Musica"l, "Romance"],
-	"arrecadacao" : 141.600.000,
+	"generos" : [ "Animation", "Adventure","Drama", "Family", "Musical", "Romance"],
+	"arrecadacao" : 141600000,
 	"nota" : 8.6
 })
 
@@ -116,7 +116,7 @@ db.filmes.insert({
 	"atores" : ["Robert De Niro", "Sharon Stone", "Joe Pesci" ],
 	"data_estreia" : new Date (1996,03,15),
 	"generos" : ["Crime", "Drama"],
-	"arrecadacao" 42.438.300 : ,
+	"arrecadacao": 42438300,
 	"nota" : 6.7
 })
 
@@ -127,7 +127,7 @@ db.filmes.insert({
 	"atores" : ["Val Kilmer", "Tommy Lee Jones", "Jim Carrey" ],
 	"data_estreia" : new Date (1995,07,7),
 	"generos" : ["Action", "Adventure", "Fantasy "],
-	"arrecadacao" : 184.031.112,
+	"arrecadacao" : 184031112,
 	"nota" : 5.4
 })
 
@@ -138,7 +138,7 @@ db.filmes.insert({
 	"atores" : ["Bruce Willis", "Madeleine Stowe", "Brad Pitt"],
 	"data_estreia" : new Date (1995,03,22),
 	"generos" : ["Mystery", "Sci-Fi", "Thriller"],
-	"arrecadacao" : 56.882.000,
+	"arrecadacao" : 56882000,
 	"nota" : 8.0
 })
 
@@ -149,29 +149,29 @@ db.filmes.insert({
 	"atores" : ["Leo Fitzpatrick", "Justin Pierce", "Chloë Sevigny" ],
 	"data_estreia" : new Date (1995,09,20),
 	"generos" : ["Drama"],
-	"arrecadacao" : 7.417.210,
+	"arrecadacao" : 7417210,
 	"nota" : 7.0
 })
 
 db.filmes.insert({
 	"titulo" : "Toy Story",
 	"duracao" : 81,
-	"diretores" : " John Lasseter",
+	"diretores" : "John Lasseter",
 	"atores" : [ "Tom Hanks", "Tim Allen", "Don Rickles"],
 	"data_estreia" : new Date (1995,01,12),
 	"generos" : [" Animation", "Adventure", "Comedy "],
-	"arrecadacao" : 191.796.233,
-	"nota" : 8,3 
+	"arrecadacao" : 191796233,
+	"nota" : 8.3
 })
 
 db.filmes.insert({
 	"titulo" : "Sexta-feira em Apuros",
 	"duracao" : 91,
-	"diretores" : " F. Gary Gray",
-	"atores" : [Ice Cube, Chris Tucker, Nia Long ],
-	"data_estreia" : new Date (1995,,),
+	"diretores" : "F. Gary Gray",
+	"atores" : ["Ice Cube", "Chris Tucker", "Nia Long" ],
+	"data_estreia" : new Date (1995,7,14),
 	"generos" : ["Comedy", "Drama "],
-	"arrecadacao" : 27.900.000,
+	"arrecadacao" : 27900000,
 	"nota" : 7.3
 })
 
@@ -182,7 +182,7 @@ db.filmes.insert({
 	"atores" : ["Will Smith", "Martin Lawrence", "Lisa Boyle" ],
 	"data_estreia" : new Date (1995,07,07),
 	"generos" : ["Action", "Comedy", "Crime"],
-	"arrecadacao" : 65.807.024,
+	"arrecadacao" : 65807024,
 	"nota" : 6.8
 })
 
@@ -191,9 +191,9 @@ db.filmes.insert({
 	"duracao" : 100,
 	"diretores" : " Brad Silberling",
 	"atores" : [ "Bill Pullman", "Christina Ricci", "Cathy Moriarty"],
-	"data_estreia" : new Date (1995,,),
+	"data_estreia" : new Date (1995,6,23),
 	"generos" : ["Comedy", "Family", "Fantasy"],
-	"arrecadacao" : 100.328.194,
+	"arrecadacao" : 100328194,
 	"nota" : 6.0
 })
 
@@ -203,8 +203,8 @@ db.filmes.insert({
 	"diretores" : "Mike Figgis",
 	"atores" : ["Nicolas Cage", "Elisabeth Shue", "Julian Sands"],
 	"data_estreia" : new Date (1996,03,08),
-	"generos" : [" Drama, Romance "],
-	"arrecadacao" : 31.968.347,
+	"generos" : ["Drama", "Romance "],
+	"arrecadacao" : 31968347,
 	"nota" : 7.6
 })
 
@@ -215,6 +215,6 @@ db.filmes.insert({
 	"atores" : ["Jim Carrey", "Ian McNeice", "Simon Callow"],
 	"data_estreia" : new Date (1995,01,05),
 	"generos" : ["Adventure", "Comedy", "Crime"],
-	"arrecadacao" : 108.360.000,
+	"arrecadacao" : 108360000,
 	"nota" : 6.3
 })

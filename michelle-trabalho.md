@@ -1,4 +1,4 @@
-//Michelle  de Oliveira Santos//
+// Michelle  de Oliveira Santos
 
 db.filmes.insert({
         "titulo":"Em Ritmo de Fuga",
@@ -6,7 +6,7 @@ db.filmes.insert({
         "diretores":"Edgar Write",
         "atores":["Asel","Elgort","Jon Hamm"],
         "data_estreia":new Date(2017,8,7),
-        "generos":["Ação","Crime","Musica","Suspense"],
+        "generos":["Aï¿½ï¿½o","Crime","Musica","Suspense"],
         "arrecadacao":34000000,
         "nota":8.2
 })
@@ -25,7 +25,7 @@ db.filmes.insert({
 })
 
 db.filmes.insert({
-        "titulo":"Bastardos Inglórios",
+        "titulo":"Bastardos Inglï¿½rios",
         "duracao":153,
         "diretores":["Quentin Tarantino", "Eli Roth "],
         "atores":[" Brad Pitt", "Diane Kruger", "Eli Roth"],
@@ -47,7 +47,7 @@ db.filmes.insert({
 })
 
 db.filmes.insert({
-        "titulo":"Harry Potter e o Enigma do Príncipe ",
+        "titulo":"Harry Potter e o Enigma do Prï¿½ncipe ",
         "duracao":153,
         "diretores":"David Yates",
         "atores":[" Daniel Radcliffe","Emma Watson","Rupert Grint"],
@@ -58,7 +58,7 @@ db.filmes.insert({
 })
 
 db.filmes.insert({
-        "titulo":"Se Beber, Não Case! ",
+        "titulo":"Se Beber, Nï¿½o Case! ",
         "duracao":100,
         "diretores":"Todd Phillips",
         "atores":[" Zach Galifianakis","Bradley Cooper","Justin Bartha"],
@@ -106,7 +106,7 @@ db.filmes.insert({
 
 
 db.filmes.insert({
-        "titulo":"Zumbilândia",
+        "titulo":"Zumbilï¿½ndia",
         "duracao":88,
         "diretores":"Ruben Fleischer",
         "atores":["Jesse Eisenberg","Emma Stone","Woody Harrelson"],
@@ -117,9 +117,9 @@ db.filmes.insert({
 })
 
 db.filmes.insert({
-        "titulo":"Um Sonho Possível ",
+        "titulo":"Um Sonho Possï¿½vel ",
         "duracao":129,
-        "diretores":"John Lee Hancock", 
+        "diretores":"John Lee Hancock",
         "atores":[" Quinton Aaron","Sandra Bullock","Tim McGraw"],
         "data_estreia":new Date(2010,5,19),
         "generos":["Biography","Drama","Sport"],
@@ -154,7 +154,7 @@ db.filmes.insert({
 
 
 db.filmes.insert({
-        "titulo":"A Órfã ",
+        "titulo":"A ï¿½rfï¿½ ",
         "duracao":123,
         "diretores":"Jaume Collet-Serra",
         "atores":["Vera Farmiga","Peter Sarsgaard","Isabelle Fuhrman"],

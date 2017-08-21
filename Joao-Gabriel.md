@@ -6,7 +6,7 @@ db.filmes.insert({
 	"diretores" : "Luc Besson",
 	"atores" : ["Bruce Willis","Milla Jovovich","Gary Oldman"],
 	"data_estreia" : new Date(1997,05,23),
-	"generos" : ["Ação","Aventura","Ficção Científica"],
+	"generoAção","Aventura","Ficção Científica"],
 	"arrecadacao" : 63540020,
 	"nota" : 7.7
 })
@@ -139,7 +139,7 @@ db.filmes.insert({
 
 db.filmes.insert({
 	"titulo" : "Jackie Brown",
-	"duracao" : 154, 
+	"duracao" : 154,
 	"diretores" : "Quentin Tarantino",
 	"atores" : ["Pam Grier", "Samuel L. Jackson", "Robert Forster"],
 	"data_estreia" : new Date(1998,05,22),
@@ -151,7 +151,7 @@ db.filmes.insert({
 
 db.filmes.insert({
 	"titulo" : "Eu sei o que vocês fizeram no verão passado",
-	"duracao" : 101, 
+	"duracao" : 101,
 	"diretores" : "Jim Gillesppie",
 	"atores" : ["Jennifer Love Hewitt", "Sarah Michelle Gellar", "Anne Heche", "Ryan Phillippe"],
 	"data_estreia" : new Date(1998,04,09),
@@ -162,7 +162,7 @@ db.filmes.insert({
 
 db.filmes.insert({
 	"titulo" : "Alien - A Ressureição",
-	"duracao" : 109, 
+	"duracao" : 109,
 	"diretores" : "Jean-Pierre Jeunet",
 	"atores" : ["Sigourney Weaver", "Winona Ryder", "Dominique Pinon"],
 	"data_estreia" : new Date(1998,04,09),
@@ -173,7 +173,7 @@ db.filmes.insert({
 
 db.filmes.insert({
 	"titulo" : "Batman & Robin",
-	"duracao" : 125, 
+	"duracao" : 125,
 	"diretores" : "Joel Schumacher",
 	"atores" : ["Arnold Schwarzenegger", "George Clooney", "Chris O'Donnell", "Uma Thurman"],
 	"data_estreia" : new Date(1998,04,09),
@@ -185,7 +185,7 @@ db.filmes.insert({
 
 db.filmes.insert({
 	"titulo" : "O Mentiroso",
-	"duracao" : 86, 
+	"duracao" : 86,
 	"diretores" : "Tom Shadyac",
 	"atores" : ["Jim Carrey", "Maura Tierney", "Justin Cooper", "Cary Elwes"],
 	"data_estreia" : new Date(1997,05,30),
@@ -196,7 +196,7 @@ db.filmes.insert({
 
 db.filmes.insert({
 	"titulo" : "Boogie Nights: Prazer sem limites",
-	"duracao" : 155, 
+	"duracao" : 155,
 	"diretores" : "Paul Thomas Anderson",
 	"atores" : ["Mark Wahlberg", "Julianne Moore", "Burt Reynolds", "Luiz Guzmán"],
 	"data_estreia" : new Date(1998,05,15),
@@ -208,7 +208,7 @@ db.filmes.insert({
 
 db.filmes.insert({
 	"titulo" : "Vidas em jogo",
-	"duracao" : 129, 
+	"duracao" : 129,
 	"diretores" : "David Fincher",
 	"atores" : ["Michael Douglas", "Deborah Kara Unger", "Sean Penn", "James Rebhorn"],
 	"data_estreia" : new Date(1999,03,05),
@@ -219,7 +219,7 @@ db.filmes.insert({
 
 db.filmes.insert({
 	"titulo" : "Contato",
-	"duracao" : 150, 
+	"duracao" : 150,
 	"diretores" : "Robert Zemeckis",
 	"atores" : ["Jodie Foster", "Matthew McConaughey", "Tom Skerritt"],
 	"data_estreia" : new Date(1997,09,19),
@@ -227,4 +227,3 @@ db.filmes.insert({
 	"arrecadacao" : 100853835,
 	"nota" : 7.4
 })
-

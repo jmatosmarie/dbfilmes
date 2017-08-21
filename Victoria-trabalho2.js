@@ -20,6 +20,7 @@ db.filmes.insert({
 	"arrecadacao":187991439,
 	"nota": 8.6
 })
+
 db.filmes.insert({
 	"titulo": "Planeta dos Macacos: O Confronto",
 	"duracao": 130,
@@ -30,6 +31,7 @@ db.filmes.insert({
 	"arrecadacao": 208543795,
 	"nota": 7.6
 })
+
 db.filmes.insert({
 	"titulo": "Corrente do Mal",
 	"duracao": 100,
@@ -129,7 +131,8 @@ db.filmes.insert({
 	"generos":["Action","Biography","Drama"],
 	"arrecadacao": 350123553,
 	"nota": 7.3
-})db.filmes.insert({
+})
+db.filmes.insert({
 	"titulo": "Ex Machina: Instinto Artificial",
 	"duracao": 108,
 	"diretores":"Alex Garland",
@@ -138,7 +141,8 @@ db.filmes.insert({
 	"generos":["Drama","Mystery","Sci-Fi"],
 	"arrecadacao": 25440971,
 	"nota": 7.7
-})db.filmes.insert({
+})
+db.filmes.insert({
 	"titulo": "Procura-se o Amor",
 	"duracao": 88,
 	"diretores":"Dave Alan Johnson",
@@ -147,7 +151,8 @@ db.filmes.insert({
 	"generos":["Comedy","Drama","Romance"],
 	"arrecadacao": 0,
 	"nota": 5.9
-})db.filmes.insert({
+})
+db.filmes.insert({
 	"titulo": "Se Eu Ficar",
 	"duracao": 107,
 	"diretores":"R.J. Cutler",
@@ -156,7 +161,8 @@ db.filmes.insert({
 	"generos":["Drama","Fantasy","Music"],
 	"arrecadacao": 50461335,
 	"nota": 6.8
-})db.filmes.insert({
+})
+db.filmes.insert({
 	"titulo": "Opera��o Big Hero",
 	"duracao": 93,
 	"diretores":"Don Hall",
@@ -165,7 +171,8 @@ db.filmes.insert({
 	"generos":["Animation","Action","Adventure"],
 	"arrecadacao": 222487711,
 	"nota": 7.8
-})db.filmes.insert({
+})
+db.filmes.insert({
 	"titulo": "Invenc�vel",
 	"duracao": 137,
 	"diretores":"Angelina Jolie",
@@ -174,7 +181,8 @@ db.filmes.insert({
 	"generos":["Biography","Drama","Sport"],
 	"arrecadacao": 115603980,
 	"nota": 7.2
-})db.filmes.insert({
+})
+db.filmes.insert({
 	"titulo": "O Babadook",
 	"duracao": 93,
 	"diretores":"Jennifer Kent",
@@ -183,7 +191,8 @@ db.filmes.insert({
 	"generos":["Drama","Horror"],
 	"arrecadacao": 924279,
 	"nota": 6.8
-})db.filmes.insert({
+})
+db.filmes.insert({
 	"titulo": "Capit�o Am�rica 2: O Soldado Invernal",
 	"duracao": 136,
 	"diretores":"Anthony Russo",

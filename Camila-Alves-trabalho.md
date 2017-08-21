@@ -117,7 +117,7 @@ db.filmes.insert({
 	diretores: "Giuseppe Tornatore",
 	atores:[ "Philippe Noiret", "Enzo Cannavale", "Antonella Attili"],
 	data_estreia: new Date(1988,9,29),
-	generos: Drama,
+	generos: ["Drama"],
 	arrecadacao: 11990401 ,
 	nota: 8.5
 })

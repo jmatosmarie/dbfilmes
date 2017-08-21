@@ -1,4 +1,5 @@
-/*Lavínia Tamires Souza Araújo*/
+// Lavínia Tamires Souza Araújo
+
 db.filmes.insert({"titulo":"Harry Potter e a Pedra Filosofal",
 "duracao":152,
 "diretores":"chris Columbus",

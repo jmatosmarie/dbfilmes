@@ -248,7 +248,7 @@ db.filmes.insert({
 db.filmes.insert({
 	"titulo" : "Um Grande Garoto ",
 	"duracao" : 101 ,
-	"diretores" : ["Chris Weitz "," Paul Weitz"]
+	"diretores" : ["Chris Weitz "," Paul Weitz"],
 	"atores" : [" Hugh Grant", "Nicholas Hoult" ,"Toni Collette"],
 	"data_estreia" : new Date(2002,05,27),
 	"generos" : ["Comedy", "Drama", "Romance"],
